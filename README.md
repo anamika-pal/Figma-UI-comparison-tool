@@ -27,15 +27,11 @@ It highlights mismatches in styles, layout, and components to ensure design fide
 5. Generate a report (HTML + JSON).
 
 ## Demo Screenshots
-![Report Screenshot](docs/report-screenshot.png)
-
-![Comparison Example](screenshot.png)
-
-
+![Report Screenshot](docs/report.png)
+![Comparison Example](docs/screenshot.png)
 
 ## Architecture
 ![Architecture Diagram](docs/architecture.png)
-
 
 ## Outcome
 - Reduced manual QA effort.
