@@ -27,8 +27,13 @@ It highlights mismatches in styles, layout, and components to ensure design fide
 5. Generate a report (HTML + JSON).
 
 ## Demo Screenshots
+UI
 ![Report Screenshot](docs/report.png)
+
+Comparison Report
 ![Comparison Example](docs/screenshot.png)
+
+
 
 ## Architecture
 ![Architecture Diagram](docs/architecture.png)
