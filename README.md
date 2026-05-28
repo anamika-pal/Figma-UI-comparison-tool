@@ -28,7 +28,9 @@ It highlights mismatches in styles, layout, and components to ensure design fide
 
 ## Demo Screenshots
 ![Report Screenshot](docs/report-screenshot.png)
-![Comparison Example](docs/screenshot.png)
+
+![Comparison Example](screenshot.png)
+
 
 ## Architecture
 ![Architecture Diagram](docs/architecture.png)
