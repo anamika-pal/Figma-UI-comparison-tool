@@ -32,6 +32,7 @@ It highlights mismatches in styles, layout, and components to ensure design fide
 ![Comparison Example](screenshot.png)
 
 
+
 ## Architecture
 ![Architecture Diagram](docs/architecture.png)
 
